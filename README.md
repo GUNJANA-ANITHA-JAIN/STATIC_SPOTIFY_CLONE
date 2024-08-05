@@ -11,3 +11,5 @@ It is a static web application that mimics the look and feel of Spotify's interf
 >index.html: The main HTML file containing the structure of the web page.
 >styles.css: The CSS file for styling the HTML content.
 >assets/: A folder containing all the icons in .png format used in the index.html file.
+
+
